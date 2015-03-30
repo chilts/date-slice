@@ -1,0 +1,32 @@
+{
+  "name": "date-slice",
+  "version": "0.1.0",
+  "description": "Figure out which time slice a date lands in.",
+  "main": "date-slice.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "homepage": "https://github.com/tynio/date-slice",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tynio/date-slice"
+  },
+  "bugs": {
+    "url": "https://github.com/tynio/date-slice/issues"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "http://chilts.org/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "date",
+    "time",
+    "period",
+    "slice"
+  ]
+}
