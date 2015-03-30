@@ -34,7 +34,7 @@ console.log(nearestHour.toISOString())
 
 Written by [Andrew Chilton](http://chilts.org/) - [Twitter](https://twitter.com/andychilton).
 
-Written for [Tynio](https://tyn.io/)
+Written for [Tynio](https://tyn.io/).
 
 ## License ##
 
